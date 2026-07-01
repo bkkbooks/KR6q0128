@@ -1,0 +1,327 @@
+canonical_identifier: bkk:krp/KR6q0128/v1
+canonical_location: https://kanripo.org/bkk/KR6q0128/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: (重編)曹洞五位顯訣
+  identifiers:
+    alt_id:
+    - X63n1236
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1236.xml
+    old_id: X63n1236
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0128_000.yaml, hash: 'sha256:dcba7effb45e115e0af2a068d2dff70718abb24b6986e37d20d49f2023f18e39'}
+  - {seq: 1, filename: KR6q0128_001.yaml, hash: 'sha256:f98d34f653adef3245e77dfbd66511c0d65cbec191e791d7a5078a10de920edd'}
+  - {seq: 2, filename: KR6q0128_002.yaml, hash: 'sha256:bd6c14743950ea03c57734256688d6c40ca62b9f34ef9c13a62166f55dd6fa29'}
+  - {seq: 3, filename: KR6q0128_003.yaml, hash: 'sha256:f6e03435a4b5cac58b57d896924f0b3dee63431bd1fc2aea2f2bb3e36498c630'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0128_000.markers.yaml, hash: 'sha256:4ee3ffbfdcd65c8f05798c795da86ad3f2bcff8cdb1517996afc23330a0d9775'}
+  - {seq: 1, role: markers, filename: assets/KR6q0128_001.markers.yaml, hash: 'sha256:0a40c84b1cf00af80858751cba2d2b69cceeb244e3e6109e19a07c508dba869c'}
+  - {seq: 2, role: markers, filename: assets/KR6q0128_002.markers.yaml, hash: 'sha256:8b65902cffdac29e8754165f50a524826ae9e53c782c404692c333a0f9528aa4'}
+  - {seq: 3, role: markers, filename: assets/KR6q0128_003.markers.yaml, hash: 'sha256:77400d56b61b9904f643cb885475c165da20025195bae0e7e52f68c2e11dba38'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0128_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1236-A 重編曹洞五位序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0128_X_000-mulu-2
+    span:
+    - front
+    - 781
+    - 781
+  label: No. 1236-B 洞山五位顯訣并先曹山揀出語要序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0128_X_000-mulu-3
+    span:
+    - front
+    - 1028
+    - 1028
+  label: No. 1236-C 重集洞山偏正五位曹山揀語(并)序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0128_X_000-mulu-4
+    span:
+    - front
+    - 1412
+    - 1412
+  label: 五位顯訣凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0128_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7215
+  label: 重編曹洞五位卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0128_X_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 洞山五位顯訣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 8375
+  label: 重編曹洞五位卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: No. 1236-1 天童四借頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-2
+    span:
+    - body
+    - 2191
+    - 2191
+  label: No. 1236-2 先曹山本寂禪師逐位頌(并)註別揀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-3
+    span:
+    - body
+    - 2205
+    - 2205
+  label: 汾陽五位答問(并)頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-4
+    span:
+    - body
+    - 3958
+    - 3958
+  label: 慈明和尚頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-5
+    span:
+    - body
+    - 4083
+    - 4083
+  label: 都頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-6
+    span:
+    - body
+    - 4141
+    - 4141
+  label: 大陽楷五位答問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-7
+    span:
+    - body
+    - 4253
+    - 4253
+  label: 道吾真五位答問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-8
+    span:
+    - body
+    - 4337
+    - 4337
+  label: 則之禪師五位頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-9
+    span:
+    - body
+    - 4459
+    - 4459
+  label: 天童覺和尚頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-10
+    span:
+    - body
+    - 4712
+    - 4712
+  label: 妙喜示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-11
+    span:
+    - body
+    - 5394
+    - 5394
+  label: No. 1236-3 元真長老揀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0128_X_002-mulu-12
+    span:
+    - body
+    - 6124
+    - 6124
+  label: No. 1236-4 寶篋論(新補)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 6526
+  label: 重編曹洞五位卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: No. 1236-5 洞山三句 謙本所附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-2
+    span:
+    - body
+    - 1135
+    - 1135
+  label: No. 1236-6 寶鏡三昧玄義(新補舊無註要易說聽今夾岫師註)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-3
+    span:
+    - body
+    - 2834
+    - 2834
+  label: No. 1236-7 汾陽昭廣智歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-4
+    span:
+    - body
+    - 2938
+    - 2938
+  label: No. 1236-8 心聞賁曹洞宗派頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-5
+    span:
+    - body
+    - 2946
+    - 2946
+  label: No. 1236-9 定齋閑閑居士曹洞贊(󳴤人趙康文字周臣)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-6
+    span:
+    - body
+    - 3445
+    - 3445
+  label: No. 1236-10 曹山本寂禪師三種墮四種異類
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-7
+    span:
+    - body
+    - 3458
+    - 3458
+  label: 三種墮
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-8
+    span:
+    - body
+    - 4571
+    - 4571
+  label: 四種異類
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0128_X_003-mulu-9
+    span:
+    - body
+    - 6232
+    - 6232
+  label: No. 1236-D
+  type: mulu
+  level: 1
+hash: sha256:28dcad7521868f2c0f7de989f4ddf90088e5fe2305f04a478ea38773a1f5f2bf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
