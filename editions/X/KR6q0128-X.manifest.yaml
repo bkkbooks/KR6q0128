@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0128_000-X.yaml, hash: 'sha256:cb9dddf135b8ccdcde22cf6a1555528cf30a28a880a82ca5f5c54432945b5b14'}
+  - {seq: 0, filename: KR6q0128_000-X.yaml, hash: 'sha256:6fe1f16a60c955a6d6f3e197211c23326a122394b7c0c00bc7bd6e1222cbb9e1'}
   - {seq: 1, filename: KR6q0128_001-X.yaml, hash: 'sha256:b7cf05e9f88224851c12f87da261fbb088c67b00e678085030f553fcdc00ff4b'}
   - {seq: 2, filename: KR6q0128_002-X.yaml, hash: 'sha256:f1976a0cfc0c529299bab717bbffb2f2ca5dd6a7a860d7e3acb16ef8b0f427aa'}
   - {seq: 3, filename: KR6q0128_003-X.yaml, hash: 'sha256:d059de7f30bca6904b83a4b912898e525bbe218231eecf40fb4073427bf73557'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0128_000-X.markers.yaml, hash: 'sha256:013bcd9029d4d65bf6b2d65e9dd1ede9b116a3152146a626b233798eac5ea2af'}
+  - {seq: 0, role: markers, filename: assets/KR6q0128_000-X.markers.yaml, hash: 'sha256:f8ed20a2d13a156522407eff50acaf444fe0a646af203ccebfe5027655d73564'}
   - {seq: 1, role: markers, filename: assets/KR6q0128_001-X.markers.yaml, hash: 'sha256:5be00b18fcad188d3e48031f67b2a17d8628d21ac20ded0bb0d2a3e1a9eec07d'}
   - {seq: 2, role: markers, filename: assets/KR6q0128_002-X.markers.yaml, hash: 'sha256:f8e5620e494362627796b028086a968a7b02ab83745ca5216772eac829cf3eb7'}
   - {seq: 3, role: markers, filename: assets/KR6q0128_003-X.markers.yaml, hash: 'sha256:6eb7e910ee67988aead8002aad0ff1373243f4ab8fbf0d6d0d4ec34efb36c1fc'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0128_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1236-A 重編曹洞五位序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0128_X_000-mulu-2
     span:
-    - front
+    - body
     - 781
     - 781
   label: No. 1236-B 洞山五位顯訣并先曹山揀出語要序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0128_X_000-mulu-3
     span:
-    - front
+    - body
     - 1028
     - 1028
   label: No. 1236-C 重集洞山偏正五位曹山揀語(并)序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0128_X_000-mulu-4
     span:
-    - front
+    - body
     - 1412
     - 1412
   label: 五位顯訣凡例
@@ -319,4 +319,4 @@ table_of_contents:
   label: No. 1236-D
   type: mulu
   level: 1
-hash: sha256:797335abcbac94129da13011beca8ac7dd5cdf21e351ebb5039af4b25d9a3b11
+hash: sha256:cf939d8c85db55a809f407cfe85391137ca3792663aa9757aebaef01f3a66ec3
